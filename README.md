@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-We are a group of students who simulate a phishing attack.
+Simulation of a phishing attack as part of a cyber risk assessment course.
 We created a fake victim with a gmail account and LinkedIn with tha same password.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
