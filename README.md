@@ -4,9 +4,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 We are a group of students who simulate a phishing attack.
+We created a fake victim with a gmail account and LinkedIn with tha same password.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-We created a fake victim with a gmail account and LinkedIn with tha same password.
 
 #### step1:
 1) we created a fake login website to LinkedIn
@@ -25,6 +25,6 @@ In addition, if the connection to LinkedIn was made successfully then a post was
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-###requirements:
+#### requirements:
 selenium==3.141.0
 urllib3==1.25.7
