@@ -10,9 +10,13 @@ We created a fake victim with a gmail account and LinkedIn with tha same passwor
 
 #### step1:
 1) we created a fake login website to LinkedIn
-2) we sent to the victim a fake linkedin message with the link to our website
-3) The victim will enter the login information on the site
-4) The details will be saved in the text file list.txt
+2) we sent to the victim a fake linkedin message with the link to our website:
+![image](https://user-images.githubusercontent.com/100790447/179204936-e71e3bbc-a636-4c71-ab78-e974ba046d38.png)
+
+
+
+4) The victim will enter the login information on the site
+5) The details will be saved in the text file list.txt
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 #### step2:
