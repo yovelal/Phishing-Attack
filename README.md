@@ -8,6 +8,13 @@ We created a fake victim with a gmail account and LinkedIn with tha same passwor
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+#### requirements:
+selenium==3.141.0
+urllib3==1.25.7
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
 #### step1:
 1) we created a fake login website to LinkedIn
 ![image](https://user-images.githubusercontent.com/100790447/179205109-aa5d2c9e-51cb-4bc3-9bb4-cb914abbb0c0.png)
@@ -30,8 +37,4 @@ In addition, if the connection to LinkedIn was made successfully then a post was
 !!From the victim's gmail account it is already easy to recover passwords for many accounts of other apps!!
 
 
------------------------------------------------------------------------------------------------------------------------------------------
 
-#### requirements:
-selenium==3.141.0
-urllib3==1.25.7
